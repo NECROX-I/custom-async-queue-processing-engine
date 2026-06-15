@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.log
+docker/postgres_data/
+docker/redis_data/
+.DS_Store
